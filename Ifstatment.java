@@ -6,7 +6,8 @@ public class Ifstatment {
         while(true) {
             System.out.printf("Looping %d\n", myInt);
             if (myInt == 7) {
-                System.out.println("Out of the loop, I went into the if!");
+                String x = "Out of the loop, I went into the if!";
+                System.out.println(x);
                 break;
             }
         myInt++;

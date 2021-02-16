@@ -8,3 +8,4 @@ Topics:
 4. While loop
 5. For loop
 6. If statment
+7. User input - Scanner class
