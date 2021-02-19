@@ -10,3 +10,4 @@ Topics:
 6. If statment
 7. User input - Scanner class
 8. Do ... while loop
+9. Switch (object.equals)
