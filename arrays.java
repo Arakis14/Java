@@ -21,5 +21,16 @@ public class arrays {
         for (int i=0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
         }
+        String text = null;
+        System.out.println(text);
+        
+        String[] texts = new String[2];
+        System.out.println(texts[0]);
+
+        texts[0] = "Hi";
+        texts[1] = "There!";
+        for(String texto:texts) {
+            System.out.println(texto);
+        }
     }
 }
