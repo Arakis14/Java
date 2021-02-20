@@ -11,3 +11,4 @@ Topics:
 7. User input - Scanner class
 8. Do ... while loop
 9. Switch (object.equals)
+10. Arrays
