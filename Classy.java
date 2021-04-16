@@ -6,9 +6,8 @@ class Animal {
     int legs;
     String name;
 
-    Function printer () {
+    void printer () {
         System.out.println(this.name + " " + this.legs + " " + this.human);
-        return null;
     }
 }
 
