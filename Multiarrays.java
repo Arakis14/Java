@@ -1,7 +1,4 @@
 import java.util.concurrent.ThreadLocalRandom;
-
-import jdk.javadoc.internal.tool.resources.javadoc;
-
 import java.util.Scanner;
 public class Multiarrays {
 
@@ -24,13 +21,6 @@ public class Multiarrays {
             matrix[i][j] = 0;
         }
     }
-    //show matrix 
-    for(int i = 0; i < matrix.length; i++) {
-        for(int j = 0; j < matrix[i].length; j++) {
-            System.out.print(matrix[i][j] + "\t");
-        }
-        System.out.println();
-    }
 
     int randomx = ThreadLocalRandom.current().nextInt(0, matrix.length);
     int randomy = ThreadLocalRandom.current().nextInt(0, matrix[0].length);
@@ -46,8 +36,12 @@ public class Multiarrays {
             
         }
     }
-    
-    
-    
+        //show matrix 
+        for(int i = 0; i < matrix.length; i++) {
+            for(int j = 0; j < matrix[i].length; j++) {
+                System.out.print(matrix[i][j] + "\t");
+            }
+            System.out.println();
+        }
     }
 }
