@@ -2,7 +2,7 @@ import java.util.Objects;
 import java.util.Scanner;
 import java.io.*;
 
-public class switchexample {
+public class Switchexample {
 
     public static void main(String[] args){
         
