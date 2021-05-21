@@ -13,3 +13,6 @@ Topics:
 9. Switch (object.equals)
 10. Arrays
 11. Multi dimensional arrays - my program randomly assigning 1 to a matrix and finding the location of the 1
+12. Classes
+13. Methods 
+14. Getter and setter
