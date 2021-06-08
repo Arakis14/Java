@@ -11,5 +11,7 @@ public class Application1 {
 
         System.out.println(weapon1.getAttack() + " " + weapon1.getDurability());
 
+        System.out.println(weapon1);
+
     }
 }

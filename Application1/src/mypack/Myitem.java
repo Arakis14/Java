@@ -20,4 +20,9 @@ public class Myitem {
         this.durability = newDurability;
     }
     
+    public String toString() {
+        StringBuilder sp = new StringBuilder();
+        sp.append("Item durability: " + durability);
+        return sp.toString();
+    }
 }
