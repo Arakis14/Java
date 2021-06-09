@@ -1,5 +1,3 @@
-import mypack.Armor;
-import mypack.Myitem;
 import mypack.*;
 
 public class Application1 {
@@ -12,6 +10,7 @@ public class Application1 {
         System.out.println(weapon1.getAttack() + " " + weapon1.getDurability());
 
         System.out.println(weapon1);
-
+        Iitem item2 = new Myitem();
+        System.out.println(item2);
     }
 }

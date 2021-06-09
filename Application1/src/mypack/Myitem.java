@@ -1,6 +1,6 @@
 package mypack;
 
-public class Myitem {
+public class Myitem implements Iitem {
 
     int durability;
 
