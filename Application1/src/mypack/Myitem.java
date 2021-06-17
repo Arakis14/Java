@@ -2,7 +2,7 @@ package mypack;
 
 public class Myitem implements Iitem {
 
-    int durability;
+    protected int durability;
 
     public Myitem() {
         this.durability = 100;
@@ -14,9 +14,9 @@ public class Myitem implements Iitem {
 
     public int getDurability() {
         return this.durability;
-    }
+}
 
-    void setDurability(int newDurability) {
+    public void setDurability(int newDurability) {
         this.durability = newDurability;
     }
     

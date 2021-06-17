@@ -22,3 +22,6 @@ Topics:
 18. toString        Application1
 19. Inheritance     Application1
 20. Packages        Application1
+21. Interface       Applicaiton1
+22. Protected, Public & Private Applicaiton1
+23. Polymorphism    Application1

@@ -2,7 +2,7 @@ package mypack;
 
 public class Weapon extends Myitem {
 
-    int attack;
+    protected int attack;
     
     public Weapon() {
         this.attack = 0;
