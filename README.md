@@ -25,3 +25,9 @@ Topics:
 21. Interface       Applicaiton1
 22. Protected, Public & Private Applicaiton1
 23. Polymorphism    Application1
+24. Numerical Values
+25. Upcasting and downcasting
+26. Generics
+27. Anonymous Class
+28. Reading from file
+29. Exceptions

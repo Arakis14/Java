@@ -15,6 +15,7 @@ public class Application1 {
         Iitem item2 = new Myitem();
         System.out.println(item2);
 
+        //Upcasting
         Myitem item3 = weapon1;
         System.out.println(item3.getDurability());
         
